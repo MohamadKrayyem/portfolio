@@ -34,19 +34,19 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6 text-primary" />,
       title: "Email Me",
-      value: "mohamad.dev@email.com",
+      value: "mohamad.devv@email.com",
       description: "Send me an email anytime"
     },
     {
       icon: <Phone className="w-6 h-6 text-primary" />,
       title: "Call Me",
-      value: "+1 (555) 123-4567",
+      value: "",
       description: "Available Mon-Fri, 9AM-6PM"
     },
     {
       icon: <MapPin className="w-6 h-6 text-primary" />,
       title: "Location",
-      value: "Dubai, UAE",
+      value: "Beirut , Lebanon",
       description: "Available for remote work"
     }
   ];

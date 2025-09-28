@@ -23,29 +23,11 @@ const Projects = () => {
       githubUrl: "#",
       featured: true
     },
-    {
-      title: "Social Media Dashboard",
-      description: "Analytics dashboard for social media management with data visualization and automated reporting.",
-      image: "/api/placeholder/600/400",
-      technologies: ["Vue.js", "Python", "FastAPI", "Chart.js"],
-      liveUrl: "#",
-      githubUrl: "#",
-      featured: false
-    },
-    {
-      title: "Weather Mobile App",
-      description: "Cross-platform weather application with location-based forecasts and beautiful animations.",
-      image: "/api/placeholder/600/400",
-      technologies: ["React Native", "TypeScript", "Redux", "OpenWeather API"],
-      liveUrl: "#",
-      githubUrl: "#",
-      featured: false
-    },
+    
     {
       title: "AI Content Generator",
       description: "AI-powered content creation tool for bloggers and marketers with SEO optimization features.",
       image: "/api/placeholder/600/400",
-      technologies: ["React", "Python", "OpenAI API", "MongoDB"],
       liveUrl: "#",
       githubUrl: "#",
       featured: false
@@ -54,7 +36,7 @@ const Projects = () => {
       title: "Real Estate Platform",
       description: "Property listing platform with advanced search, virtual tours, and mortgage calculator.",
       image: "/api/placeholder/600/400",
-      technologies: ["Next.js", "Supabase", "Tailwind CSS", "MapBox"],
+  
       liveUrl: "#",
       githubUrl: "#",
       featured: false
