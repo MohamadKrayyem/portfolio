@@ -15,11 +15,7 @@ const About = () => {
       title: "Web Development",
       description: "Modern, responsive websites built with cutting-edge technologies"
     },
-    {
-      icon: <Smartphone className="w-8 h-8 text-primary" />,
-      title: "Mobile Apps",
-      description: "Cross-platform mobile applications with native performance"
-    },
+
     {
       icon: <Database className="w-8 h-8 text-primary" />,
       title: "Backend Systems",
